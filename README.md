@@ -21,6 +21,7 @@ The challenge of extracting text from images of documents has traditionally been
   - [review with examples](https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/)
   - [about rotated text](https://github.com/Hellowlol/opencv-text-detection)
   - [helpful youtube tutorial](https://www.youtube.com/watch?v=nmDiZGx5mqU) which combines opencv with tesseract
+  - [more tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - GoogleVision
 - AWS Textract
 - Azure OCR
