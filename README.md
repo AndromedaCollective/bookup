@@ -17,7 +17,7 @@ The challenge of extracting text from images of documents has traditionally been
   - [review with examples](https://medium.com/datadriveninvestor/review-for-tesseract-and-kraken-ocr-for-text-recognition-2e63c2adedd0)
   - [github](https://github.com/naptha/tesseract.js)
 - OpenCV
-  - C++, python
+  - C++, javascript, python
   - [review with examples](https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/)
   - [about rotated text](https://github.com/Hellowlol/opencv-text-detection)
   - [helpful youtube tutorial](https://www.youtube.com/watch?v=nmDiZGx5mqU) which combines opencv with tesseract
