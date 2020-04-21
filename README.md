@@ -1,6 +1,5 @@
 # BookUp
 Take a picture of a book shelf and get an organized list of the books on it.
----
 ## Installing node
 This app requires nodejs
 ### Windows and Mac OS
@@ -11,14 +10,13 @@ Select the correct version for your computer and download and run the installer
 ### Ubuntu
 run `apt-get install node`
 
----
 ## Installing Expo
 ### Windows
 open command prompt, and run `npm install -g expo-cli`
 
 ### Ubuntu and Mac OS
 in terminal, run `npm install -g expo-cli`
----
+
 ## Cloning the repo
 
 run command `git clone https://github.com/AndromedaCollective/bookup`
