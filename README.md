@@ -10,6 +10,7 @@ Select the correct version for your computer and download and run the installer
 
 ### Ubuntu
 run `apt-get install node`
+
 ---
 ## Installing Expo
 ### Windows
