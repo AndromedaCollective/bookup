@@ -10,6 +10,7 @@ Select the correct version for your computer and download and run the installer
 ### Ubuntu
 run `apt-get install node`
 
+
 ## Installing Expo
 ### Windows
 open command prompt, and run `npm install -g expo-cli`
@@ -21,8 +22,10 @@ in terminal, run `npm install -g expo-cli`
 
 run command `git clone https://github.com/AndromedaCollective/bookup`
 
+
 ## Installing dependencies
 In the project directory, run `npm install` to install all dependencies
+
 
 ## Running the code
 In the project directory, run `npm start`
