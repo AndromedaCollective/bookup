@@ -1,5 +1,34 @@
 # BookUp
 Take a picture of a book shelf and get an organized list of the books on it.
+## Installing node
+This app requires nodejs
+### Windows and Mac OS
+[Node JS Download for Windows/Mac](https://nodejs.org/en/download/)
+
+Select the correct version for your computer and download and run the installer
+
+### Ubuntu
+run `apt-get install node`
+
+
+## Installing Expo
+### Windows
+open command prompt, and run `npm install -g expo-cli`
+
+### Ubuntu and Mac OS
+in terminal, run `npm install -g expo-cli`
+
+## Cloning the repo
+
+run command `git clone https://github.com/AndromedaCollective/bookup`
+
+
+## Installing dependencies
+In the project directory, run `npm install` to install all dependencies
+
+
+## Running the code
+In the project directory, run `npm start`
 
 
 ## Tools Brainstorm
@@ -17,7 +46,7 @@ The challenge of extracting text from images of documents has traditionally been
   - [review with examples](https://medium.com/datadriveninvestor/review-for-tesseract-and-kraken-ocr-for-text-recognition-2e63c2adedd0)
   - [github](https://github.com/naptha/tesseract.js)
 - OpenCV
-  - C++, python
+  - C++, javascript, python
   - [review with examples](https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/)
   - [about rotated text](https://github.com/Hellowlol/opencv-text-detection)
   - [helpful youtube tutorial](https://www.youtube.com/watch?v=nmDiZGx5mqU) which combines opencv with tesseract
